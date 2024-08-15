@@ -1,2 +1,0 @@
-git config --global credential.helper cache  // 캐싱 옵션
-git config --global credential.helper store  // time-out 없이 저장 옵션
