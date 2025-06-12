@@ -1,3 +1,5 @@
+// 이미지 로딩 라이브러리로 Coil 사용
+
 @Composable
 fun ImageViewer(modifier: Modifier = Modifier) {
     Box(
